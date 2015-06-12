@@ -1,2 +1,2 @@
 # Indie-App
-Android Application for Musicians / Artists and Producers.
+"Connecting Artists/Musicians with Producers, vice-versa."
